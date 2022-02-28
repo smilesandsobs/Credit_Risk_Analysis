@@ -5,7 +5,7 @@
 
 ## Resources:
 
--Data Souce: 
+-Data Souce: LoanStats_2019Q1.csv
              
 Software: Python 3.7.12, Jupyter Notebook
 
@@ -15,6 +15,15 @@ Software: Python 3.7.12, Jupyter Notebook
 
 
 
+#### Random Forest - Balanced Accuracy Score:
+
+![This is an image]()
+
+#### Random Forest - Classification Report:
+
+![This is an image]()
+
+
 #### :
 
 ![This is an image]()
@@ -22,8 +31,6 @@ Software: Python 3.7.12, Jupyter Notebook
 #### :
 
 ![This is an image]()
-
-
 
 
 
