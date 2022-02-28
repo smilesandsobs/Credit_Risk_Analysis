@@ -24,11 +24,27 @@ Software: Python 3.7.12, Jupyter Notebook
 ![This is an image]()
 
 
-#### :
+#### Easy Ensemble Classifier - Balanced Accuracy Score:
 
 ![This is an image]()
 
-#### :
+#### Easy Ensemble Classifier - Classification Report:
+
+![This is an image]()
+
+#### Random Oversampler - Balanced Accuracy Score:
+
+![This is an image]()
+
+#### Random Oversampler - Classification Report:
+
+![This is an image]()
+
+#### SMOTE Oversampling - Balanced Accuracy Score:
+
+![This is an image]()
+
+#### SMOTE Oversampling - Classification Report:
 
 ![This is an image]()
 
